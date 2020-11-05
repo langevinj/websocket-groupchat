@@ -1,0 +1,1 @@
+This simple group chat app made with Websocket was made by Springboard. In no way do I claim to have created this groupchat. I used the frame work to add a methods in which a user can return a list of members in their room, retrieve a joke from an API, and private message another user.
